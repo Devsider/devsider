@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: 
-   - Smurfd - a Valorant Account Manager
+   - NewPort - An Arduino Port Manager
    - Allrounder - My Main Discord Bot
-   - BetterInvites - A InviteManager Alternative
+   - Lots of Smarthome Tech
+   - ~~BetterInvites - A InviteManager Alternative
+   - ~~Smurfd - a Valorant Account Manager
    - and a few more...
 - 🌱 I’m currently learning: a lot
 - 📫 How to reach me: 
